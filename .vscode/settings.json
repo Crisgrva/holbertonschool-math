@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.c": "c",
-        "algorithm": "c",
-        "random": "c"
-    }
-}

@@ -1,0 +1,10 @@
+testing/
+Calculator/
+.vscode/
+.DS_Store
+[a-z]
+*~
+~*
+.out~
+~.out
+*main.c
