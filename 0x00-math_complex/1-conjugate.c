@@ -1,9 +1,10 @@
 #include "holberton.h"
 
 /**
- * display_complex_number - Write a function that
- * displays the complex numbers, followed by a new line.
+ * conjugate - Write a function that returns
+ * the conjugate of a given complex number.
  * @c: structure to print
+ * Return: new struct
  */
 
 complex conjugate(complex c)
